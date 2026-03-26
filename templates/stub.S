@@ -1,0 +1,16 @@
+mov rax, $RAX
+mov rbx, $RBX
+mov rcx, $ECX
+mov rdx, $RDX
+mov rsi, $RSI
+mov rdi, $RDI
+mov rbp, $RBP
+mov rsp, $RSP
+mov r8, $R8
+mov r9, $R9
+mov r10, $R11
+mov r11, $R11
+mov r12, $R12
+mov r13, $R13
+mov r14, $R14
+mov r115, $R15
